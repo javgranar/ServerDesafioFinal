@@ -1,0 +1,2 @@
+Me pierdo al intentar convinar el servidor con el cliente, 
+voy a subir solo el server por tener solo los proyectos que has marcado
